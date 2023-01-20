@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumith
-- 👀 I’m interested in cloud computing and backend.
+- 👀 I’m interested in cloud computing and backend webdev.
 - 🌱 I’m currently learning node.js.
 - 💞️ I’m looking to collaborate on backend projects involving node.js and express.js.
 - 📫 You can reach out to me through my email- sumith2827@gmail.com.
