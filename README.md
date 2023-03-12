@@ -4,10 +4,10 @@ CS Undergrad, Backend Web Developer
 -----------------------------------
 I started off with Frontend but then found Backend more interesting.
 * 🌍  I'm based in Bengaluru, India
-* * ✉️  You can contact me at [sumith2827@gmail.com](mailto:sumith2827@gmail.com)
-* * 🧠  I'm learning Node.js and Express.js
-* * 🤝  I'm open to collaborating on Frontend projects that need Backend integration.
-* * ⚡  I like dark chocolate.
+* ✉️  You can contact me at [sumith2827@gmail.com](mailto:sumith2827@gmail.com)
+* 🧠  I'm learning Node.js and Express.js
+* 🤝  I'm open to collaborating on Frontend projects that need Backend integration.
+* ⚡  I like dark chocolate.
 
 ### Skills
 
