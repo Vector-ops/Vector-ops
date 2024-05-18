@@ -6,7 +6,7 @@ I started off with Frontend but then found Backend more interesting.
 * 🌍  I'm based in Bengaluru, India
 * ✉️  You can contact me at [sumith2827@gmail.com](mailto:sumith2827@gmail.com)
 * 🧠  I'm learning game development.
-* 🤝  I'm open to collaborating on Frontend projects that need Backend integration.
+* 🤝  I'm open to collaborating on Fullstack projects.
 * ⚡  I like dark chocolate.
 
 ### Skills
