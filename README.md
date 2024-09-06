@@ -1,8 +1,9 @@
 # Hello! I'm Sumith
 
-I'm backend developer 🤖.
-I love machines 📻.
-I also love dark chocolates 🍫
+- I'm backend developer 🤖.
+- I love machines 📻.
+- I also love dark chocolates 🍫.
+- Currently working on Mapil 🔖.
 
 📫 How to reach me:
 
