@@ -1,6 +1,8 @@
 # Hello! I'm Sumith
 
-I'm backend developer :robot:.
+I'm backend developer 🤖.
+I love machines 📻.
+I also love dark chocolates 🍫
 
 📫 How to reach me:
 
