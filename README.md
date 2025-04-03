@@ -1,6 +1,8 @@
 <h1 align="center"> Hello! 👋 I'm Sumith</h1>
 
-I woke up and chose System Design.
+I woke up and chose System Design 😸
+
+Save the planet by self hosting 🌏
 
 📫 How to reach me:
 
