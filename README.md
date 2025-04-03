@@ -1,16 +1,6 @@
 <h1 align="center"> Hello! 👋 I'm Sumith</h1>
 
-- 🤖  I'm a **Backend Developer** but want to delve into the world of **Kernels**.
-  
-- 📻  I love **designing** machines and **watching** them move.
-  
-- 🌱  I am currently learning **DSA, System Design and Microservices**.
-  
-- 🍫  I also love **dark** chocolates cause they're **bitter**.
-  
-- 🔖  I'm currently working on **Mapil** cause it's fun.
-
-- 🤚 I am a passionate **Linux** user and use **Fedora** btw.
+I woke up and chose System Design.
 
 📫 How to reach me:
 
